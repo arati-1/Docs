@@ -1,2 +1,3 @@
-# Docs
-This repository is for creating a documentation page using GitHub Pages
+# Instnt documentation
+
+##Explore Instnt documentation to integrate Instnt with your business
