@@ -1,3 +1,3 @@
-# Instnt documentation
+#  documentation
 
-**Explore Instnt documentation to integrate Instnt with your business
+**Explore  documentation to integrate  with your business
